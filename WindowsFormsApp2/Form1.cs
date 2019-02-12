@@ -29,7 +29,7 @@ namespace WindowsFormsApp2
                 {
                     MessageBox.Show("Excelent");
                 } else {
-                    MessageBox.Show("Warning");
+                    MessageBox.Show("Warning, password dont edentifity!");
                 }
             }
         }

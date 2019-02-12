@@ -46,6 +46,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Pink;
             this.label1.Location = new System.Drawing.Point(125, 24);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(60, 13);
@@ -84,6 +85,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.background_1939125_960_720;
             this.ClientSize = new System.Drawing.Size(434, 201);
             this.Controls.Add(this.maskedTextBox1);
             this.Controls.Add(this.button1);
